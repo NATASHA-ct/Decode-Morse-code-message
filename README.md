@@ -7,10 +7,12 @@
 
 ## Built With
 - RUBY
+- Linter: Rubocop
+- VS Code
 
 
 ## Getting Started
-
+To get a local copy up and running follow these simple steps.
 ### Prerequisites
 - Basic Ruby syntax
 
@@ -20,7 +22,15 @@
 ### Prerequisites
 -Github flow knowledge.
 -Basic Ruby.
--Installation of files.
+
+-A web browser like Google Chrome.
+ A code editor like Visual Studio Code with Git and Ruby.
+
+-You can check if Git is installed by running the following command in the terminal.
+$ git --version
+Likewise for Ruby installation.
+
+$ ruby --version && irb
 
 ### Install
 - Set up Github Actions
